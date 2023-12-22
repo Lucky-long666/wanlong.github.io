@@ -1,22 +1,24 @@
 # main links links
 main:
+  - title: "CV"
+    #url: /cv/
+    url: /files/CV_WanlongFang(1).pdf
+
   - title: "Publications"
     url: /publications/
+   # url: https://scholar.google.com/citations?user=U1foc64AAAAJ&hl=zh-CN
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+ # - title: "Teaching"
+ #   url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+#  - title: "Blog Posts"
+#   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Talks"
+#   url: /talks/    
+
+# - title: "Guide"
+#   url: /markdown/

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-😃 I am an graduate student majoring in Software Engineering at Henan University!
+😃 I am an undergraduate student majoring in Software Engineering at Henan University!
 
 👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com>
 

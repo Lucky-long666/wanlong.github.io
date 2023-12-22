@@ -8,8 +8,8 @@ main:
     url: /publications/
    # url: https://scholar.google.com/citations?user=U1foc64AAAAJ&hl=zh-CN
 
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#   url: /portfolio/
 
  # - title: "Teaching"
  #   url: /teaching/    

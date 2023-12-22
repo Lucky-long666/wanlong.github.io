@@ -12,12 +12,12 @@ redirect_from:
 👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com>
 
 ## 😶Academic Background
-**<font color="red">[Height]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!!**
+**<font color="red">[Heighlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!!**
 
 Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: [1 st in 392](https://drive.google.com/file/d/1_d0FlTMg6lSfekRgBM6D_fYjJgVdd7wx/view?usp=drive_link)
 
 ## 🐾Research insterests:
-1. Artificial intelligence
+1. Artificial Intelligence
 2. machine learning, multi-modal learning (e.g., temporal sentence grounding)
 3. computer vision (e.g., object detection) and natural language processing (e.g., text classification)
 4. Applied Machine Learning
@@ -32,7 +32,7 @@ Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: 
 3. Music 🎵
 4. Badminton 🏸
 
-## 👍Moto：
+## 👍Motto：
 *<font color='blue'>"Quiet People have the loudest minds"</font>* -Stephen Hawking
 
     

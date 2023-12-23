@@ -61,7 +61,3 @@ redirect_from:
 
 
 
-
-
-
-<a href="https://clustrmaps.com/site/1bxx2"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xUw022oUllb-a8vAdBQh6HRG38-rimx_Ot410aLjGwM&cl=ffffff" /></a>

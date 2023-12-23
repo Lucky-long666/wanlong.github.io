@@ -16,17 +16,28 @@ redirect_from:
 
 Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: [1 st in 392](https://drive.google.com/file/d/1_d0FlTMg6lSfekRgBM6D_fYjJgVdd7wx/view?usp=drive_link)
 
+## ✍Professional Activities:
+1. [*EMNLP 2023 reviewer*](https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf)
+
 ## 🐾Research insterests:
 1. Artificial Intelligence
 2. machine learning, multi-modal learning (e.g., temporal sentence grounding)
 3. computer vision (e.g., object detection) and natural language processing (e.g., text classification)
 4. Applied Machine Learning
 
+## 🏆Award
+1. Merit undergraduate graduates in 2023
+2. Henan University Scholarship in 2023
+3. Merit student in 2023
+4. Outstanding award for innovation and entrepreneurship among college students in 2022
+5. Merit student in 2020
+6. National Encouragement scholarship in 2020
+
 ## 😃Languages:
 1. Chinese (native)
 2. English (TOFEL:105 & GRE: Verbal: 165/170, Quantitative: 170/170, Analytical Writing: 3.5/6)
 
-## ❤Hobbies:（To be Honest, Sometimes I am a people person!😁）
+## 💕Hobbies:（To be Honest, Sometimes I am a people person!😁）
 1. Reading 📕
 2. Running 🏃‍
 3. Music 🎵

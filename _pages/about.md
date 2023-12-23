@@ -11,12 +11,12 @@ redirect_from:
 
 😃 I am an undergraduate student majoring in Software Engineering at Henan University!
 
-👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com></u>
+👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com>
 
 ## 😶Academic Background
 **<font color="red">[Heighlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!!**
 
-- 09/2019 - 05/2023：B.E. in Software Engineering, <a href="www.henu.cn" style="text-decoration: none;">Henan University</a>, Kaifeng, China
+- 09/2019 - 05/2023：B.E. in Software Engineering, <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, Kaifeng, China
 
   
 

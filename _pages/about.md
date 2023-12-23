@@ -7,17 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 😃 I am an undergraduate student majoring in Software Engineering at Henan University!
 
-👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com>
+👻 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wanlongfang@gmail.com></u>
 
 ## 😶Academic Background
 **<font color="red">[Heighlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!!**
 
-Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: [1 st in 392](https://drive.google.com/file/d/1_d0FlTMg6lSfekRgBM6D_fYjJgVdd7wx/view?usp=drive_link)
+- 09/2019 - 05/2023：B.E. in Software Engineering, <a href="www.henu.cn" style="text-decoration: none;">Henan University</a>, Kaifeng, China
+
+  
 
 ## ✍Professional Activities:
-1. [*EMNLP 2023 reviewer*](https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf)
+1. *<a href="https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf" style="text-decoration: none;">EMNLP 2023 reviewer</a>*
 
 ## 🐾Research insterests:
 1. Artificial Intelligence
@@ -48,10 +52,10 @@ Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: 
 
 
 ## 👏News and Updates
-1. **Dec 2023:** 👏 Congrats!!! My paper " Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language " was accepted by AAAI Conference on Artificial Intelligence 2024.
+1. **Dec 2023:** 🎉 Congrats!!! My paper " Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language " was accepted by AAAI Conference on Artificial Intelligence 2024.
 
-2. **Oct 2023:** 👏 Congrats!!! My paper " Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
+2. **Oct 2023:** 🎉 Congrats!!! My paper " Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
 
-3. **Jun 2023:** 👏 I was graduated from Henan University! 
+3. **Jun 2023:** 🎉 I was graduated from Henan University! 
 
 

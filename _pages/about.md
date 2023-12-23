@@ -25,7 +25,7 @@ Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: 
 3. computer vision (e.g., object detection) and natural language processing (e.g., text classification)
 4. Applied Machine Learning
 
-## 🏆Award
+## 🏆Awards:
 1. Merit undergraduate graduates in 2023
 2. Henan University Scholarship in 2023
 3. Merit student in 2023
@@ -46,7 +46,7 @@ Sep 2019 - May 2023：Henan University, B.Eng in Software Engineering, Ranking: 
 ## 👍Motto：
 *<font color='blue'>"Quiet People have the loudest minds"</font>* -Stephen Hawking
 
-    
+
 ## 👏News and Updates
 1. **Dec 2023:** 👏 Congrats!!! My paper " Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language " was accepted by AAAI Conference on Artificial Intelligence 2024.
 

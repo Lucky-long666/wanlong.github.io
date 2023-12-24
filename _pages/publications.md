@@ -26,13 +26,13 @@ typora-root-url: ..\images
 - Towards Robust Temporal Activity Localization Learning with Noisy Labels, *Under Review* in International Conference on Computational Linguistics 2024 (co-author)
   <br>
   
-- ***More high quality papers will appear here in the future！！***
+- ***More representative papers will appear here in the future！！***
 
 ## Journal Paper
 
 - Any-shot Compressed-domain Temporal Sentence Grounding, *Under Review* in IEEE Transactions on Pattern Analysis and Machine Intelligence (**co-first author**)
   <br>
-- ***More high quality papers will appear here in the future！！***
+- ***More representative papers will appear here in the future！！***
   <br>
 
 

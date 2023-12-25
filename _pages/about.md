@@ -70,9 +70,9 @@ redirect_from:
 
 
 ## 👏News and Updates
-1. **Dec 2023:** 🎉 Congrats!!! My paper " Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language " was accepted by AAAI Conference on Artificial Intelligence 2024.
+1. **Dec 2023:** 🎉 Congrats!!! My paper "Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language" was accepted by AAAI Conference on Artificial Intelligence 2024.
 
-2. **Oct 2023:** 🎉 Congrats!!! My paper " Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
+2. **Oct 2023:** 🎉 Congrats!!! My paper "Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
 
 3. **Jun 2023:** 🎉 I was graduated from Henan University! 
 

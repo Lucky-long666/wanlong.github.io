@@ -22,13 +22,15 @@ redirect_from:
   
 
 ## 🐾Research Interests:
-1. Artificial Intelligence
+1. Large Language Model
 
 2. Machine Learning, Multi-modal Learning (e.g., Temporal Sentence Grounding)
 
 3. Computer Vision (e.g., Object Detection) and Natural Language Processing (e.g., Text Classification)
 
 4. Applied Machine Learning
+
+5. Artificial Intelligence
 
    
 

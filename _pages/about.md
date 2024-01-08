@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-😃 I am an undergraduate student majoring in Software Engineering at Henan University, which is a <font color="Red">Double First-class University in China</font>.
+😃 I am a Research Assistant at <a href="https://www.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a> supervised by Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). I earned a bachelor in  Software Engineering at  <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, which is a <font color="Red">Double First-class University in China</font>.
 
 👻I am open to academic collaborations and please email me at <wanlongfang@gmail.com> if you are interested in collaborating with me.
 
 🔈🔈**<font color="red">[Heighlight]  I am looking for a PhD scholarship to start in 2024 Fall. I am looking forward to receive any response, if there is a position which you found me a good fit for it!!</font>**
 
 ## 😶Academic Background
-- 09/2019 - 05/2023：B.E. in Software Engineering (*Ranking: **<font color="red">1</font>**st in 392*), <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, Kaifeng, China
+- 06/2021 - Now:       Research Assistant, <a href="https://www.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a>, Wuhan, China
+
+- 09/2019 - 05/2023: B.E. in Software Engineering (*Ranking: **<font color="red">1</font>**st in 392*), <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, Kaifeng, China
 
   
 

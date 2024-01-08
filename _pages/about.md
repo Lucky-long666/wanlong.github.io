@@ -15,20 +15,20 @@ redirect_from:
 🔈🔈**<font color="red">[Heighlight]  I am looking for a PhD scholarship to start in 2024 Fall. I am looking forward to receive any response, if there is a position which you found me a good fit for it!!</font>**
 
 ## 😶Academic Background
-- 06/2021 -       Now: Research Assistant, <a href="https://www.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a>, China
+- 06/2021 -      Now: Research Assistant, <a href="https://www.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a>, 
 
-- 09/2019 - 05/2023: B.E. in Software Engineering (*Ranking: **<font color="red">1</font>**st in 392*), <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, China
+- 09/2019 - 05/2023: B.E. in Software Engineering (*Ranking: **<font color="red">1</font>**st in 392*), <a href="https://www.henu.edu.cn/" style="text-decoration: none;">Henan University</a>, 
 
   
 
 ## 🐾Research Interests:
 1. Large Language Model
 
-2. Machine Learning, Multi-modal Learning (e.g., Temporal Sentence Grounding)
+2. Multi-modal Learning (e.g., Temporal Sentence Grounding)
 
 3. Computer Vision (e.g., Object Detection) and Natural Language Processing (e.g., Text Classification)
 
-4. Applied Machine Learning
+4. Machine Learning
 
 5. Artificial Intelligence
 

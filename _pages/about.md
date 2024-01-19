@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-😃 I am a Research Assistant at  <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a> supervised by Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). I earned a bachelor in  Software Engineering at  <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>, which is a <font color="Red">Double First-class University in China</font>.
+😃 I am a Research Assistant at  <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a> (HUST) supervised by Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). I earned a bachelor in  Software Engineering at  <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>, which is a <font color="Red">Double First-class University in China</font>.
 
 👻I am open to academic collaborations and please email me at <wanlongfang@gmail.com> if you are interested in collaborating with me.
 

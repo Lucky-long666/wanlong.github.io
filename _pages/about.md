@@ -60,7 +60,11 @@ redirect_from:
 
 ## ✍Professional Activities:
 
-1. *<a href="https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf" style="text-decoration: none;">EMNLP 2023 Reviewer</a>*
+   
+
+1. ACM MM 2024 Reviewer
+
+2. *<a href="https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf" style="text-decoration: none;">EMNLP 2023 Reviewer</a>*
 
    
 

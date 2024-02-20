@@ -40,6 +40,8 @@ redirect_from:
 
 2. *Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding*, Accepted by Findings of Empirical Methods in Natural Language Processing 2023 
 
+3. 
+
    
 
 ## 🏆Awards:
@@ -78,11 +80,13 @@ redirect_from:
 
 
 ## 👏News and Updates
-1. **Dec 2023:** 🎉 Congrats!!! My paper "Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language" was accepted by AAAI Conference on Artificial Intelligence 2024.
+1. **Feb 2024:** 🎉 Congrats!!! Our paper "Towards Robust Temporal Activity Localization Learning with Noisy Labels" was accepted by in International Conference on Computational Linguistics 2024.
 
-2. **Oct 2023:** 🎉 Congrats!!! My paper "Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
+2. **Dec 2023:** 🎉 Congrats!!! Our paper "Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language" was accepted by AAAI Conference on Artificial Intelligence 2024.
 
-3. **Jun 2023:** 🎉 I was graduated from Henan University! 
+3. **Oct 2023:** 🎉 Congrats!!! Our paper "Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding" was accepted by Findings of Empirical Methods in Natural Language Processing 2023.
+
+4. **Jun 2023:** 🎉 I was graduated from Henan University! 
 
    
 

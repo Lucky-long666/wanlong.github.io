@@ -20,11 +20,9 @@ typora-root-url: ..\images
 
   
 
-- Open-world Temporal Sentence Grounding, *Under Review* in AAAI Conference on Artificial Intelligence 2024
-  <br>
+- Towards Robust Temporal Activity Localization Learning with Noisy Labels, *Accepted by* in International Conference on Computational Linguistics 2024 (co-author)
   
-- Towards Robust Temporal Activity Localization Learning with Noisy Labels, *Under Review* in International Conference on Computational Linguistics 2024 (co-author)
-  <br>
+- Open-world Temporal Sentence Grounding, *Under Review* in AAAI Conference on Artificial Intelligence 2024
   
 - ***More representative papers will appear here in the future！！***
 

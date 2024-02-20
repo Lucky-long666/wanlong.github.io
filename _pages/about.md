@@ -40,7 +40,7 @@ redirect_from:
 
 2. *Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding*, Accepted by Findings of Empirical Methods in Natural Language Processing 2023 
 
-3. 
+3. Towards Robust Temporal Activity Localization Learning with Noisy Labels, Accepted by in International Conference on Computational Linguistics 2024 (co-author)
 
    
 

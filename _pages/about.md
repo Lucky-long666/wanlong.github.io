@@ -44,7 +44,7 @@ redirect_from:
 
    
 
-## 🏆Awards:
+## 🏆Awards & Scholarships:
 
 1. Merit Undergraduate Graduates in 2023
 
@@ -64,9 +64,11 @@ redirect_from:
 
    
 
-1. ACM MM 2024 Reviewer
+1. ACL 2024 Reviewer
 
-2. *<a href="https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf" style="text-decoration: none;">EMNLP 2023 Reviewer</a>*
+2. ACM MM 2024 Reviewer
+
+3. *<a href="https://2023.emnlp.org/downloads/EMNLP-2023-Handbook-Dec-06.pdf" style="text-decoration: none;">EMNLP 2023 Reviewer</a>*
 
    
 

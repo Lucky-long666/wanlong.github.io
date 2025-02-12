@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+☺ I am a PhD student at Nanyang Technological University
 
-😃 I am a Research Assistant at  <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology (HUST)</a> supervised by Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). I earned a bachelor in  Software Engineering at  <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>, which is a <font color="Red">Double First-class University in China</font>.
+😃 I was a Research Assistant at  <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology (HUST)</a> supervised by Prof. [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en). I earned a bachelor in  Software Engineering at  <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>, which is a <font color="Red">Double First-class University in China</font>.
 
 👻I am open to academic collaborations and please email me at <wanlongfang@gmail.com> if you are interested in collaborating with me.
 
-🔈🔈**<font color="red">[Heighlight]  I am looking for a PhD scholarship to start in 2024 Fall. I am looking forward to receive any response, if there is a position which you found me a good fit for it!!</font>**
 
 ## 😶Academic Background
-- 06/2021 -      Now: Research Assistant, <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a>
+- 08/2024 - Now: PhD student, <a href="https://www.ntu.edu.sg/" style="text-decoration: none;">Nanyang Technological University</a>
+
+- 06/2021 - 08/2024: Research Assistant, <a href="https://english.hust.edu.cn/" style="text-decoration: none;">Huazhong University of Science and Technology</a>
 
 - 09/2019 - 05/2023: B.E. in Software Engineering (*Ranking: **<font color="red">1</font>**st in 392*), <a href="https://iao.henu.edu.cn/yw/Home.htm" style="text-decoration: none;">Henan University</a>
 
